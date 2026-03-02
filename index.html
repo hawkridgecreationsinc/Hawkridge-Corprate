@@ -36,6 +36,28 @@
         ::-webkit-scrollbar-track { background: #0B1120; }
         ::-webkit-scrollbar-thumb { background: #1E293B; border-radius: 4px; }
         ::-webkit-scrollbar-thumb:hover { background: #06b6d4; }
+        /* Custom scrollbar */
+        ::-webkit-scrollbar { width: 8px; }
+        ::-webkit-scrollbar-track { background: #0B1120; }
+        ::-webkit-scrollbar-thumb { background: #1E293B; border-radius: 4px; }
+        ::-webkit-scrollbar-thumb:hover { background: #06b6d4; }
+
+        /* MANGAT OS: The LV Monogram Brand Watermark */
+        .brand-pattern {
+            position: relative;
+        }
+        .brand-pattern::before {
+            content: "";
+            position: absolute;
+            inset: 0;
+            /* Encoded spaces as %20 so the browser can read the Mangat OS naming syntax */
+            background-image: url("[REF]%20Hawkridge%20Symbol.svg");
+            background-size: 120px 120px; /* Controls how large the LV pattern is */
+            background-repeat: repeat;
+            opacity: 0.02; /* Extremely subtle - 2% visibility */
+            pointer-events: none; /* Ensures users can still click buttons underneath */
+            z-index: 0;
+        }
     </style>
 </head>
 <body class="bg-gray-50 text-slate-800 font-sans antialiased selection:bg-cyan-500 selection:text-white">
