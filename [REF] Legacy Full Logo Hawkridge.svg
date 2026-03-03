@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="-100 -250 8500 1500" width="100%" height="100%">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="-100 -300 12000 1800" width="100%" height="100%">
     <g transform="scale(6.666666666666667) translate(10, 10)">
         <defs id="SvgjsDefs1083">
             <linearGradient id="SvgjsLinearGradient1087">
@@ -7,15 +7,15 @@
             </linearGradient>
         </defs>
         
-        <g id="SvgjsG1086" rel="mainfill" name="symbol" feature="symbol" xmlns:name="symbol_mainfill" fill="url(#SvgjsLinearGradient1087)" transform="translate(5.417, -12.0) scale(2.90)">
+        <g id="SvgjsG1086" rel="mainfill" name="symbol" feature="symbol" xmlns:name="symbol_mainfill" fill="url(#SvgjsLinearGradient1087)" transform="translate(10, -35) scale(2.50)">
             <path xmlns="http://www.w3.org/2000/svg" d="M94.458,41.209l-8.354-7.438c-0.006-0.004-0.012-0.005-0.016-0.009c-0.089-0.076-0.189-0.133-0.297-0.174 c-0.035-0.013-0.069-0.019-0.105-0.027c-0.076-0.021-0.154-0.031-0.236-0.032c-0.039-0.001-0.076-0.002-0.115,0.003 c-0.022,0.002-0.043-0.003-0.064,0.001l-20.444,3.504L53.672,21.664c-0.012-0.018-0.025-0.035-0.039-0.052 c0.002-0.001-0.002-0.001-0.002-0.001c-0.139-0.167-0.332-0.29-0.559-0.338c-0.018-0.004-0.037-0.008-0.056-0.011l-39.224-6.389 c-0.405-0.066-0.808,0.122-1.019,0.474s-0.185,0.796,0.064,1.121l2.822,3.687H7.61c-0.414,0-0.784,0.255-0.933,0.641 s-0.044,0.823,0.262,1.101l32.423,29.367l-6.821,33.389c-0.087,0.429,0.114,0.864,0.497,1.076c0.152,0.083,0.318,0.124,0.482,0.124 c0.252,0,0.502-0.096,0.693-0.278l13.503-12.959c0.274-0.263,0.375-0.658,0.262-1.021l-1.454-4.645l23.031-7.626 c0.172-0.057,0.326-0.159,0.443-0.297l5.295-6.145c0.002-0.002,0.004-0.005,0.005-0.007l0.036-0.042 c0.035-0.04,0.066-0.083,0.095-0.129l5.993-9.749h12.369c0.415,0,0.787-0.257,0.935-0.645S94.768,41.485,94.458,41.209z M83.429,35.877L74.51,50.384L66.135,38.84L83.429,35.877z M53.084,24.258l19.479,26.848l-30.608-1.145L53.084,24.258z M51.436,23.031L40.215,48.945L15.957,17.253L51.436,23.031z M17.191,22.155l15.792,20.633L10.204,22.155H17.191z M35.143,81.91 l5.517-27.006l3.667,11.715c0,0.002,0,0.004,0,0.006s0.002,0.004,0.003,0.006l1.556,4.97L35.143,81.91z M68.666,57.513 l-22.738,7.528l-4.095-13.084l30.632,1.146L68.666,57.513z M82.654,40.956l3.01-4.897l5.502,4.897H82.654z"/>
         </g>
         
-        <g id="main_text" fill="#ffffff" transform="translate(420, -5.01) scale(2.55)">
+        <g id="main_text" fill="#ffffff" transform="translate(550, -5.01) scale(2.55)">
             <text x="0" y="24" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="28" letter-spacing="2">HAWKRIDGE</text>
         </g>
         
-        <g id="SvgjsG1085" fill="#ffffff" transform="translate(420, 52.08) scale(2.55)">
+        <g id="SvgjsG1085" fill="#ffffff" transform="translate(550, 52.08) scale(2.55)">
             <text x="0" y="24" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="28" letter-spacing="2">CREATIONS INC.</text>
         </g>
 
